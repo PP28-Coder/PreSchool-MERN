@@ -1,0 +1,273 @@
+.gallary {
+    background-color: rgb(240, 220, 215);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .gallary .div {
+    height: 2880px;
+    overflow: hidden;
+    position: relative;
+    width: 1398px;
+    border-radius: 1%;
+  }
+  
+  .gallary .overlap {
+    height: 88px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1398px;
+  }
+  
+  .gallary .overlap-3 {
+    height: 414px;
+    left: 0;
+    position: absolute;
+    top: 2260px;
+    width: 1500px;
+  }
+    
+  .gallary .hp-school-ahmedabad {
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    color: #6a6b6d;
+    display: -webkit-box;
+    font-family: "Itim", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 152px;
+    left: 98px;
+    letter-spacing: 0;
+    line-height: 33px;
+    overflow: hidden;
+    position: absolute;
+    text-overflow: ellipsis;
+    top: 0;
+    width: 1252px;
+  }
+  
+  .gallary .footer {
+  background-color: transparent;
+  height: 268px;
+  left: 0;
+  position: absolute;
+  top: 146px;
+  width: 1398px;
+}
+  .gallary .overlap-7 {
+    height: 2147px;
+    left: 62px;
+    position: absolute;
+    top: 90px;
+    width: 1267px;
+  }
+  
+  .gallary .group-10 {
+    height: 1792px;
+    left: 0;
+    position: absolute;
+    top: 355px;
+    width: 1267px;
+  }
+  
+  .gallary .group-11 {
+    height: 1708px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1267px;
+  }
+  
+  .gallary .guru {
+    background-image: url('./img_gal/unsplash-3tll-97hnjo-1.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 287px;
+    left: 0;
+    position: absolute;
+    top: 754px;
+    width: 388px;
+  }
+  
+  .gallary .guru-2 {
+    background-image: url('./img_gal/unsplash-3tll-97hnjo.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 287px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 388px;
+  }
+  
+  
+  .gallary .sanlat {
+    background-image: url('./img_gal/unsplash-o3ymvt7wf9u.svg');
+    background-size: 100% 100%;
+    height: 287px;
+    left: 436px;
+    position: absolute;
+    top: 754px;
+    width: 388px;
+  }
+  
+  .gallary .unsplash {
+    height: 287px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 388px;
+  }
+  
+  .gallary .kunjungan {
+    background-image: url('./img_gal/unsplash-d1upkifd04a.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 287px;
+    left: 871px;
+    position: absolute;
+    top: 754px;
+    width: 388px;
+  }
+  
+  .gallary .mpls {
+    background-image: url('./img_gal/unsplash-ohkelokq3re.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 287px;
+    left: 0;
+    position: absolute;
+    top: 1088px;
+    width: 388px;
+  }
+  
+  .gallary .mpls-2 {
+    background-image: url('./img_gal/unsplash-6w4f62sn-yi.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 287px;
+    left: 0;
+    position: absolute;
+    top: 1421px;
+    width: 388px;
+  }
+  
+  .gallary .perpisahan {
+    background-image: url('./img_gal/unsplash-et-78qkmmqs-1.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 287px;
+    left: 436px;
+    position: absolute;
+    top: 1088px;
+    width: 388px;
+  }
+  
+  .gallary .perpisahan-2 {
+    background-image: url('./img_gal/unsplash-et-78qkmmqs.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 287px;
+    left: 435px;
+    position: absolute;
+    top: 381px;
+    width: 388px;
+  }
+  
+  .gallary .perpisahan-3 {
+    background-image: url('./img_gal/unsplash-ande50aahn4-3.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 287px;
+    left: 436px;
+    position: absolute;
+    top: 1421px;
+    width: 388px;
+  }
+  
+  .gallary .wisuda-tahfidz {
+    background-image: url('./img_gal/unsplash-7lbc5j-jw4-1.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 287px;
+    left: 871px;
+    position: absolute;
+    top: 1088px;
+    width: 388px;
+  }
+  
+  .gallary .wisuda-tahfidz-2 {
+    background-image: url('./img_gal/unsplash-7lbc5j-jw4.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 287px;
+    left: 879px;
+    position: absolute;
+    top: 0;
+    width: 388px;
+  }
+  
+  .gallary .wisuda-tahfidz-3 {
+    background-image: url('./img_gal/unsplash-norsyxmhgpi.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 287px;
+    left: 871px;
+    position: absolute;
+    top: 1421px;
+    width: 388px;
+  }
+  
+  
+  .gallary .gallery {
+    color: #0b0f19;
+    font-family: "Open Sans", Helvetica;
+    font-size: 100px;
+    font-weight: 600;
+    height: 250px;
+    left: 440px;
+    letter-spacing: 0.3px;
+    line-height: 200px;
+    position: absolute;
+    text-decoration: underline;
+    top: 10;
+    width: 606px;
+  }
+  
+  .gallary .perpisahan-4 {
+    background-image: url('./img_gal/unsplash-ande50aahn4-2.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 287px;
+    left: 0;
+    position: absolute;
+    top: 735px;
+    width: 388px;
+  }
+  
+  .gallary .perpisahan-5 {
+    background-image: url('./img_gal/unsplash-ande50aahn4-1.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 287px;
+    left: 436px;
+    position: absolute;
+    top: 354px;
+    width: 388px;
+  }
+  
+  .gallary .perpisahan-6 {
+    background-image: url('./img_gal/unsplash-ande50aahn4.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 287px;
+    left: 879px;
+    position: absolute;
+    top: 735px;
+    width: 388px;
+  }
+  

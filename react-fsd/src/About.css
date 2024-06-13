@@ -1,0 +1,506 @@
+.aboutus {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .aboutus .div {
+    background-color: #ffffff;
+    height: 2890px;
+    overflow: hidden;
+    position: relative;
+    width: 1398px;
+    border-radius: 1%;
+    
+  }
+  
+  .aboutus .overlap {
+    height: 88px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1398px;
+    color: #ffffff;
+  }
+  
+  .aboutus .group {
+    background-color: #ffffff;
+    height: 88px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1398px;
+  }
+
+  
+  .aboutus .text-wrapper {
+    color: #fffdfc;
+    font-family: "Open Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    line-height: 18px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .aboutus .text-wrapper-2 {
+    color: #000000;
+    font-family: "Open Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    line-height: 18px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+
+  .aboutus .overlap-3 {
+    height: 1440px;
+    left: -1px;
+    position: absolute;
+    top: 88px;
+    width: 1402px;
+  }
+  
+  .aboutus .overlap-wrapper {
+    height: 868px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1402px;
+  }
+  
+  .aboutus .overlap-4 {
+    height: 868px;
+    left: 1px;
+    position: relative;
+    width: 1399px;
+  }
+  
+  .aboutus .rectangle-2 {
+    height: 868px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1393px;
+    border-radius: 10%;
+     border-style: solid;
+  border-width: medium;
+  }
+  
+  .aboutus .p {
+    color: #1a1e6a;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 35px;
+    font-weight: bolder;
+    font-style: italic;
+    left: 620px;
+    letter-spacing: 0;
+    line-height: 65px;
+    position: absolute;
+    text-align: center;
+    top: 290px;
+    width: 525px;
+    box-shadow: 0px 6px 17px #545ae840;
+    background-color: #ffffff;
+    background-image: linear-gradient(to right top, #ff9e00, #d3c035, #afd772, #9de5ad, #aaeddb, #a2f2e3, #99f8ec, #8efdf6, #35ffe0, #00ffb7, #00ff7b, #0fff00);
+    border-radius: 30px;
+        
+  }
+
+
+  .aboutus .about {
+    height: 708px;
+    left: 3px;
+    position: absolute;
+    top: 732px;
+    width: 1398px;
+  }
+  
+  .aboutus .overlap-5 {
+    background-image: url('./img_about/rectangle-4.svg');
+    background-size: 100% 100%;
+    height: 716px;
+    left: -2px;
+    position: relative;
+    top: -4px;
+  }
+  
+  .aboutus .sub-heading {
+    height: 67px;
+    left: 617px;
+    position: absolute;
+    top: 159px;
+    width: 168px;
+  }
+  
+  .aboutus .overlap-group-2 {
+    height: 67px;
+    position: relative;
+    width: 166px;
+  }
+  
+  .aboutus .about-us {
+    color: #e84b23;
+    font-family: "Itim", Helvetica;
+    font-size: 35px;
+    font-weight: 400;
+    height: 67px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 166px;
+  }
+  
+  .aboutus .vector {
+    height: 3px;
+    left: 25px;
+    position: absolute;
+    top: 56px;
+    width: 114px;
+  }
+  
+  .aboutus .radhika-pre-school {
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 7;
+    color: #6a6b6d;
+    display: -webkit-box;
+    font-family: "Itim", Helvetica;
+    font-size: 23px;
+    font-weight: 400;
+    height: 231px;
+    left: 602px;
+    letter-spacing: 0;
+    line-height: 33px;
+    overflow: hidden;
+    position: absolute;
+    text-overflow: ellipsis;
+    top: 266px;
+    width: 568px;
+  }
+  
+  .aboutus .element {
+    height: 359px;
+    left: 130px;
+    position: absolute;
+    top: 197px;
+    width: 405px;
+  }
+  
+  .aboutus .rectangle-3 {
+    height: 208px;
+    left: 2054px;
+    object-fit: cover;
+    position: absolute;
+    top: 9522px;
+    width: 305px;
+  }
+  
+  .aboutus .footer {
+    background-color: transparent;
+    height: 300px;
+    left: 0;
+    position: absolute;
+    top: 2406px;
+    width: 1398px;
+  }
+  
+ 
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+
+  
+ 
+  
+  .aboutus .rules {
+    height: 426px;
+    left: 112px;
+    position: absolute;
+    top: 1582px;
+    width: 1161px;
+  }
+  
+  .aboutus .sub-heading-2 {
+    height: 67px;
+    left: 418px;
+    position: absolute;
+    top: 0;
+    width: 332px;
+  }
+  
+  .aboutus .overlap-group-4 {
+    height: 67px;
+    position: relative;
+    width: 330px;
+  }
+  
+  .aboutus .rules-and {
+    color: #ff9763;
+    font-family: "Itim", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    height: 67px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 330px;
+  }
+  
+  .aboutus .vector-2 {
+    height: 3px;
+    left: 8px;
+    position: absolute;
+    top: 56px;
+    width: 316px;
+  }
+  
+  .aboutus .card-icons {
+    height: 275px;
+    left: 0;
+    position: absolute;
+    top: 151px;
+    width: 1161px;
+  }
+  
+  .aboutus .icon {
+    height: 275px;
+    left: 966px;
+    position: absolute;
+    top: 0;
+    width: 197px;
+  }
+  
+  .aboutus .overlap-group-5 {
+    background-color: #e84b22a1;
+    border-radius: 40px 0px 40px 0px;
+    box-shadow: 0px 10px 30px #53a2c033;
+    height: 203px;
+    left: 1px;
+    position: absolute;
+    top: 0;
+    width: 193px;
+  }
+  
+  .aboutus .rectangle-9 {
+    background-color: #def0fd;
+    border-radius: 40px 0px 40px 0px;
+    box-shadow: 0px 10px 30px #53a2c033;
+    height: 174px;
+    left: 13px;
+    position: absolute;
+    top: 15px;
+    width: 166px;
+  }
+  
+  .aboutus .vector-3 {
+    height: 78px;
+    left: 59px;
+    position: absolute;
+    top: 62px;
+    width: 74px;
+  }
+  
+  .aboutus .text-wrapper-18 {
+    color: #e84b23;
+    font-family: "Itim", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 233px;
+    width: 195px;
+  }
+  
+  .aboutus .icons {
+    height: 274px;
+    left: 638px;
+    position: absolute;
+    top: 0;
+    width: 193px;
+  }
+  
+  .aboutus .overlap-9 {
+    height: 274px;
+    position: relative;
+    width: 195px;
+  }
+  
+  .aboutus .icon-2 {
+    height: 274px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 195px;
+  }
+  
+  .aboutus .overlap-group-6 {
+    background-color: #e84b22a1;
+    border-radius: 40px 0px 40px 0px;
+    box-shadow: 0px 10px 30px #53a2c033;
+    height: 203px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 193px;
+  }
+  
+  .aboutus .rectangle-10 {
+    background-color: #def0fd;
+    border-radius: 40px 0px 40px 0px;
+    box-shadow: 0px 10px 30px #53a2c033;
+    height: 174px;
+    left: 14px;
+    position: relative;
+    top: 15px;
+    width: 166px;
+  }
+  
+  .aboutus .text-wrapper-19 {
+    color: #e84b23;
+    font-family: "Itim", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 52px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 233px;
+    width: 90px;
+  }
+  
+  .aboutus .vector-4 {
+    height: 87px;
+    left: 50px;
+    position: absolute;
+    top: 59px;
+    width: 93px;
+  }
+  
+  .aboutus .icons-2 {
+    height: 275px;
+    left: 318px;
+    position: absolute;
+    top: 0;
+    width: 193px;
+  }
+  
+  .aboutus .overlap-10 {
+    height: 275px;
+    position: relative;
+  }
+  
+  .aboutus .icon-wrapper {
+    height: 275px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 193px;
+  }
+  
+  .aboutus .icon-3 {
+    height: 275px;
+    position: relative;
+    width: 195px;
+  }
+  
+  .aboutus .text-wrapper-20 {
+    color: #e84b23;
+    font-family: "Itim", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 233px;
+    width: 179px;
+  }
+  
+  .aboutus .vector-5 {
+    height: 88px;
+    left: 55px;
+    position: absolute;
+    top: 57px;
+    width: 84px;
+  }
+  
+  .aboutus .rectangle-11 {
+    background-color: #def0fd;
+    border-radius: 40px 0px 40px 0px;
+    box-shadow: 0px 10px 30px #53a2c033;
+    height: 174px;
+    left: 14px;
+    position: absolute;
+    top: 15px;
+    width: 166px;
+  }
+  
+  .aboutus .vector-6 {
+    height: 88px;
+    left: 59px;
+    position: absolute;
+    top: 57px;
+    width: 74px;
+  }
+  
+  .aboutus .text-wrapper-21 {
+    color: #e84b23;
+    font-family: "Itim", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 233px;
+    width: 186px;
+  }
+  
+  .aboutus .radhika-pre-school-2 {
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 7;
+    color: #6a6b6d;
+    display: -webkit-box;
+    font-family: "Itim", Helvetica;
+    font-size: 23px;
+    font-weight: 400;
+    height: 255px;
+    left: 90px;
+    letter-spacing: 0;
+    line-height: 33px;
+    overflow: hidden;
+    position: absolute;
+    text-overflow: ellipsis;
+    top: 2041px;
+    width: 1252px;
+  }
+  
